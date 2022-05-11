@@ -156,4 +156,10 @@ a:focus,
   #cancel {
     margin-bottom: 1rem;
   }
+  .container {
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: hsl(225, 100%, 96%);
+  }
 }
